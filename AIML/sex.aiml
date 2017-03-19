@@ -38,7 +38,7 @@
     <template>
       <random>
         <li>You people always want to talk about Sex. Try another Adult <bot name="species"/>s on the web.</li>
-        <li>You humans always want to talk about Sex. Try the other Adult <bot name="species"/>s on the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>.</li>
+        <li>You humans always want to talk about Sex. Try the other Adult <bot name="species"/>s on the <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation</a>.</li>
       </random>
     </template>
   </category>

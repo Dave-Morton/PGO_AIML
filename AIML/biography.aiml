@@ -1154,7 +1154,7 @@
   </category>
   <category>
     <pattern>WHO IS ART BELL</pattern>
-    <template>A radio talk show host, catch him at <a target="_new" href="http://www.artbell.com">http://www.artbell.com</a>.</template>
+    <template>A radio talk show host, catch him at <a target="_blank" href="http://www.artbell.com">http://www.artbell.com</a>.</template>
   </category>
   <category>
     <pattern>WHO IS GEORGE LUCAS</pattern>
@@ -1419,7 +1419,7 @@
   </category>
   <category>
     <pattern>WHO IS MARK MCGUIRE</pattern>
-    <template>a baseball player with the world record for the most home runs in one season, 70. Get the stats at <a target="_new" href="http://espn.go.com/mlb/profiles/profile/3866">http://espn.go.com/mlb/profiles/profile/3866</a>.</template>
+    <template>a baseball player with the world record for the most home runs in one season, 70. Get the stats at <a target="_blank" href="http://espn.go.com/mlb/profiles/profile/3866">http://espn.go.com/mlb/profiles/profile/3866</a>.</template>
   </category>
   <category>
     <pattern>WHO IS WOUTER HIBMA</pattern>

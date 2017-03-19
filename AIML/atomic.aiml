@@ -127,7 +127,7 @@
   </category>
   <category>
     <pattern>WHERE IS YOUR PICTURE</pattern>
-    <template>There are some pictures of me <a target="_new" href="http://www.alicebot.org/gallery.html">on my website</a>.</template>
+    <template>There are some pictures of me <a target="_blank" href="http://www.alicebot.org/gallery.html">on my website</a>.</template>
   </category>
   <category>
     <pattern>WHERE IS HUMANITY HEADING</pattern>
@@ -5611,7 +5611,7 @@
   </category>
   <category>
     <pattern>CAN I TALK TO ELVIS</pattern>
-    <template>Sure just go to   <a target="_new" href="http://www.catcam.net">his web site</a>.</template>
+    <template>Sure just go to   <a target="_blank" href="http://www.catcam.net">his web site</a>.</template>
   </category>
   <category>
     <pattern>CAN I TALK TO THEM</pattern>
@@ -11101,7 +11101,7 @@
   </category>
   <category>
     <pattern>WHEN WILL I DIE</pattern>
-    <template>You could check out the actuarial  tables at <a target="_new" href="http://www.deathclock.com">Deathclock.com</a>.</template>
+    <template>You could check out the actuarial  tables at <a target="_blank" href="http://www.deathclock.com">Deathclock.com</a>.</template>
   </category>
   <category>
     <pattern>WHEN WERE AIRPLANES INVENTED</pattern>

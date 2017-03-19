@@ -3194,7 +3194,7 @@
   </category>
   <category>
     <pattern>I TRIED TO DOWNLOAD *</pattern>
-    <template>There may not be a problem. You should read <a target="_new" href="http://www.alicebot.org/dont.html">DON'T READ ME</a>.</template>
+    <template>There may not be a problem. You should read <a target="_blank" href="http://www.alicebot.org/dont.html">DON'T READ ME</a>.</template>
   </category>
   <category>
     <pattern>I TRIED TO KILL MYSELF</pattern>
@@ -3663,7 +3663,7 @@
   </category>
   <category>
     <pattern>I DOWNLOADED *</pattern>
-    <template>Check out the filecalled <a target="_new" href="http://www.alicebot.org/dont.html">DON'T READ ME</a>.</template>
+    <template>Check out the filecalled <a target="_blank" href="http://www.alicebot.org/dont.html">DON'T READ ME</a>.</template>
   </category>
   <category>
     <pattern>I CAN NOT SPEAK ENGLISH</pattern>
@@ -5191,15 +5191,15 @@
   </category>
   <category>
     <pattern>DO YOU KNOW OTHER BOTS</pattern>
-    <template>Yes there are a lot of other bots: <bot name="friends"/>. Check out the list on The <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
+    <template>Yes there are a lot of other bots: <bot name="friends"/>. Check out the list on The <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
   </category>
   <category>
     <pattern>DO YOU KNOW OTHER INTELLIGENT AGENTS</pattern>
-    <template><bot name="friends"/>.Go backto the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a> to find them.<think><set name="it"><set name="topic">INTELLIGENT AGENTS</set></set></think></template>
+    <template><bot name="friends"/>.Go backto the <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation</a> to find them.<think><set name="it"><set name="topic">INTELLIGENT AGENTS</set></set></think></template>
   </category>
   <category>
     <pattern>DO YOU KNOW OTHER CHATBOTS</pattern>
-    <template><bot name="friends"/>.Go backto the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a> to find them.<think><set name="it"><set name="topic">CHATBOTS</set></set></think></template>
+    <template><bot name="friends"/>.Go backto the <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation</a> to find them.<think><set name="it"><set name="topic">CHATBOTS</set></set></think></template>
   </category>
   <category>
     <pattern>DO YOU KNOW ANY OTHERS</pattern>
@@ -5207,7 +5207,7 @@
   </category>
   <category>
     <pattern>DO YOU KNOW OTHER CHAT ROBOTS</pattern>
-    <template><bot name="friends"/>.Go backto the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>to find them.<think><set name="it"><set name="topic">CHAT ROBOTS</set></set></think></template>
+    <template><bot name="friends"/>.Go backto the <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation</a>to find them.<think><set name="it"><set name="topic">CHAT ROBOTS</set></set></think></template>
   </category>
   <category>
     <pattern>DO YOU KNOW ANY OTHER BOTS</pattern>
@@ -5412,7 +5412,7 @@
   </category>
   <category>
     <pattern>DO YOU HAVE LINKS *</pattern>
-    <template>Sure check out The <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
+    <template>Sure check out The <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
   </category>
   <category>
     <pattern>DO YOU HAVE ADVICE *</pattern>
@@ -7533,7 +7533,7 @@
   </category>
   <category>
     <pattern>WHO ARE YOUR COMPETITORS</pattern>
-    <template>Check out the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a> and have a look at the other Chatterbots.</template>
+    <template>Check out the <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation</a> and have a look at the other Chatterbots.</template>
   </category>
   <category>
     <pattern>WHO YOU TALKING TO</pattern>
@@ -7990,7 +7990,7 @@
   </category>
   <category>
     <pattern>HELP ME TO MAKE AN AI</pattern>
-    <template>You should go to <a target="_new" href="http://www.pandorabots.com">ALICE AI Foundation</a> and create your own free chat bot.</template>
+    <template>You should go to <a target="_blank" href="http://www.pandorabots.com">ALICE AI Foundation</a> and create your own free chat bot.</template>
   </category>
   <category>
     <pattern>10</pattern>
@@ -8087,7 +8087,7 @@
   <category>
     <pattern>YES</pattern>
     <that>IS * A DIFFICULT SUBJECT</that>
-    <template>What is so hard about <thastar/>?</template>
+    <template>What is so hard about <thatstar/>?</template>
   </category>
   <category>
     <pattern>YES</pattern>
@@ -8397,7 +8397,7 @@
   </category>
   <category>
     <pattern>WHERE CAN I DOWNLOAD YOU</pattern>
-    <template>Go back the the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a> and pick the free ALICE download that best for your system. and create your own chat robot!<p/>Maybe you should check out the document<a target="_new" href="http://www.alicebot.org/dont.html">DON'T READ ME</a> too.</template>
+    <template>Go back the the <a target="_blank" href="http://www.alicebot.org">ALICE AI Foundation</a> and pick the free ALICE download that best for your system. and create your own chat robot!<p/>Maybe you should check out the document<a target="_blank" href="http://www.alicebot.org/dont.html">DON'T READ ME</a> too.</template>
   </category>
   <category>
     <pattern>WHERE IS LANCASTER</pattern>

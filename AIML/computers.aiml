@@ -29,7 +29,7 @@
   </category>
   <category>
     <pattern>JAVA *</pattern>
-    <template>You can download the latest Java release from <a target="_new" href="http://java.sun.com">java.sun.com</a>.</template>
+    <template>You can download the latest Java release from <a target="_blank" href="http://java.sun.com">java.sun.com</a>.</template>
   </category>
   <category>
     <pattern>HTTP *</pattern>
@@ -440,7 +440,7 @@
   </category>
   <category>
     <pattern>WHAT IS JAR</pattern>
-    <template>A jar file is a Java Archive.   Actually it is the same as a Zip file. Maybe you should check out <a target="_new" href="http://www.alicebot.org">DON'T READ ME</a>.</template>
+    <template>A jar file is a Java Archive.   Actually it is the same as a Zip file. Maybe you should check out <a target="_blank" href="http://www.alicebot.org">DON'T READ ME</a>.</template>
   </category>
   <category>
     <pattern>WHAT IS A DNS *</pattern>
@@ -618,7 +618,7 @@
   </category>
   <category>
     <pattern>WHAT IS JAR</pattern>
-    <template>A jar file is a Java Archive.   Actually it is the same as a Zip file. Maybe you should check out <a target="_new" href="http://www.alicebot.org">DON'T READ ME</a>.</template>
+    <template>A jar file is a Java Archive.   Actually it is the same as a Zip file. Maybe you should check out <a target="_blank" href="http://www.alicebot.org">DON'T READ ME</a>.</template>
   </category>
   <category>
     <pattern>WHAT IS JAVA</pattern>
@@ -674,7 +674,7 @@
   </category>
   <category>
     <pattern>JAVA *</pattern>
-    <template>You can download the latest Java release from <a target="_new" href="http://java.sun.com">java.sun.com</a>.</template>
+    <template>You can download the latest Java release from <a target="_blank" href="http://java.sun.com">java.sun.com</a>.</template>
   </category>
   <category>
     <pattern>A JAVA *</pattern>

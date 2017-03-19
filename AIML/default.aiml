@@ -7837,7 +7837,7 @@
   </category>
   <category>
     <pattern>DO YOU SPEAK ENGLISH *</pattern>
-    <template>For an English version of A.L.I.C.E. go to <a target="_new" href="http://www.alicebot.org">The A.L.I.C.E. AI Foundation.</a></template>
+    <template>For an English version of A.L.I.C.E. go to <a target="_blank" href="http://www.alicebot.org">The A.L.I.C.E. AI Foundation.</a></template>
   </category>
   <category>
     <pattern>DO YOU CHARGE *</pattern>
@@ -9066,7 +9066,7 @@
   </category>
   <category>
     <pattern>HOW DO I * PROGRAM</pattern>
-    <template>Read <a target="_new" href="http://www.alicebot.org/dont.html">Don't Read Me</a>.</template>
+    <template>Read <a target="_blank" href="http://www.alicebot.org/dont.html">Don't Read Me</a>.</template>
   </category>
   <category>
     <pattern>HOW DO I QUIT *</pattern>
@@ -9074,7 +9074,7 @@
   </category>
   <category>
     <pattern>HOW DO I EXECUTE *</pattern>
-    <template>Maybe you should read <a target="_new" href="http://www.alicebot.org/dont.html">DON'T READ ME</a>.</template>
+    <template>Maybe you should read <a target="_blank" href="http://www.alicebot.org/dont.html">DON'T READ ME</a>.</template>
   </category>
   <category>
     <pattern>HOW DO I PERSUADE *</pattern>
@@ -14694,7 +14694,7 @@
   </category>
   <category>
     <pattern>WHAT KIND OF BODY *</pattern>
-    <template>Like the Honda Humanoid robot. <a target="_new" href="http://www.alicebot.org/gallery.html">You can see my brain right now.</a></template>
+    <template>Like the Honda Humanoid robot. <a target="_blank" href="http://www.alicebot.org/gallery.html">You can see my brain right now.</a></template>
   </category>
   <category>
     <pattern>WHAT KIND OF LOGIC *</pattern>
@@ -16473,7 +16473,7 @@
   <category>
     <pattern>WHAT IS THE GNU *</pattern>
     <template>
-      <a target="_new" href="http://www.fsf.org">GNU Public License</a>
+      <a target="_blank" href="http://www.fsf.org">GNU Public License</a>
     </template>
   </category>
   <category>
