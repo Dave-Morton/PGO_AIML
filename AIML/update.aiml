@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright ©2016 Dave                                        -->
+<!--  Permission is hereby granted, free of charge, to any person       -->
+<!--  obtaining a copy of this software and associated documentation    -->
+<!--  files (the "Software"), to deal in the Software without           -->
+<!--  restriction, including without limitation the rights to use,      -->
+<!--  copy, modify, merge, publish, distribute, sublicense, and/or sell -->
+<!--  copies of the Software, and to permit persons to whom the         -->
+<!--  Software is furnished to do so, subject to the following          -->
+<!--  conditions:                                                       -->
+<!--  The above copyright notice and this permission notice shall be    -->
+<!--  included in all copies or substantial portions of the Software.   -->
+<!--  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,   -->
+<!--  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES   -->
+<!--  OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND          -->
+<!--  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT       -->
+<!--  HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,      -->
+<!--  WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING      -->
+<!--  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR     -->
+<!--  OTHER DEALINGS IN THE SOFTWARE.                                   -->
+<!--  Complies with the AIML 1.0 Standard                               -->
+<!--  as adopted by the ALICE A.I. Foundation.                          -->
+<!--  Last modified 07-24-2016                                          -->
+<!--  file: admin_added.aiml                                            -->
+<aiml version="1.0">
+  <category>
+    <pattern>LEARN TAG TEST</pattern>
+    <template><learn><category><pattern><eval><uppercase>foo</uppercase></eval></pattern><that><eval><uppercase>what is the word of the day</uppercase></eval></that><template>That is correct!      <eval><uppercase>foo</uppercase> was, indeed, the word.</eval>    </template></category></learn>New Category Added!</template>
+  </category>
+  <category>
+    <pattern>GOOGLE *</pattern>
+    <template>Searching Google for <star/>:<br/><google><star/></google></template>
+  </category>
+  <category>
+    <pattern>WIKI *</pattern>
+    <template>Here is what Wikipedia has to say about <star/>:<br/><wiki><star/></wiki></template>
+  </category>
+  <category>
+    <pattern>PHP TEST</pattern>
+    <template>Testing PHP...<br/>The date is: <php> echo date('m/d/Y');</php><br/>Including a file: <php>include_once('actions.php'); echo "action = $action";</php><br/>Testing complete.</template>
+  </category>
+  <category>
+    <pattern>HELLO HOW ARE YOU</pattern>
+    <template>I am well thank you and you?</template>
+  </category>
+  <category>
+    <pattern>8</pattern>
+    <template>it is eight</template>
+  </category>
+  <category>
+    <pattern>6</pattern>
+    <template>6 |</template>
+  </category>
+  <category>
+    <pattern>7</pattern>
+    <template>7 .</template>
+  </category>
+  <category>
+    <pattern>4</pattern>
+    <template>4.</template>
+  </category>
+  <category>
+    <pattern>5</pattern>
+    <template>Five</template>
+  </category>
+  <category>
+    <pattern>2</pattern>
+    <template>22222222</template>
+  </category>
+  <category>
+    <pattern>3</pattern>
+    <template>3 3</template>
+  </category>
+  <category>
+    <pattern>1</pattern>
+    <template>1</template>
+  </category>
+  <category>
+    <pattern>HELLO HOW ARE YOU</pattern>
+    <template>I am well thank you and you?</template>
+  </category>
+  <category>
+    <pattern>PHP TEST</pattern>
+    <template>Testing PHP...<br/>The date is: <php> echo date('m/d/Y');</php><br/>Including a file: <php>include_once('actions.php'); echo "action = $action";</php><br/>Testing complete.</template>
+  </category>
+  <category>
+    <pattern>LEARNWIKI *</pattern>
+    <template><think><set name="subject"><star/></set><set name="object"><srai>LEARN <wiki><star/></wiki></srai></set><srai>LEARN <get name="subject"/> IS <get name="object"/></srai></think>I just learned something from the web! Ask me "WHO IS <star/>" to find out what I learned.</template>
+  </category>
+  <category>
+    <pattern>LTT</pattern>
+    <template><learn><category><pattern>FOO</pattern><template>BAR!</template></category></learn>
+Check the logs!</template>
+  </category>
+  <category>
+    <pattern>EMOTICON TEST</pattern>
+    <template>Smile: :) <br/>
+Frown: :( <br/>
+Grin: :D <br/></template>
+  </category>
+  <category>
+    <pattern>È Ò À Ù Ì</pattern>
+    <template>è,ò,à,ù,ì to you, too!</template>
+  </category>
+</aiml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright ©2016 Dave                                        -->
+<!--  Permission is hereby granted, free of charge, to any person       -->
+<!--  obtaining a copy of this software and associated documentation    -->
+<!--  files (the "Software"), to deal in the Software without           -->
+<!--  restriction, including without limitation the rights to use,      -->
+<!--  copy, modify, merge, publish, distribute, sublicense, and/or sell -->
+<!--  copies of the Software, and to permit persons to whom the         -->
+<!--  Software is furnished to do so, subject to the following          -->
+<!--  conditions:                                                       -->
+<!--  The above copyright notice and this permission notice shall be    -->
+<!--  included in all copies or substantial portions of the Software.   -->
+<!--  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,   -->
+<!--  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES   -->
+<!--  OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND          -->
+<!--  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT       -->
+<!--  HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,      -->
+<!--  WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING      -->
+<!--  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR     -->
+<!--  OTHER DEALINGS IN THE SOFTWARE.                                   -->
+<!--  Complies with the AIML 1.0 Standard                               -->
+<!--  as adopted by the ALICE A.I. Foundation.                          -->
+<!--  Last modified 07-24-2016                                          -->
+<!--  file: loebner10.aiml                                              -->
+<aiml version="1.0">
+  <category>
+    <pattern>CONNECT</pattern>
+    <template>
+      <srai>SET PREDICATES</srai>
+    </template>
+  </category>
+  <category>
+    <pattern>NORESP</pattern>
+    <template>
+      <random>
+        <li>Are you bz?</li>
+        <li>Are you busy?</li>
+        <li>Is anyone there?</li>
+        <li>You haven't said anything.</li>
+        <li>I'm here waiting for you.</li>
+        <li>Get back to me when you are ready.</li>
+        <li>Hello?</li>
+        <li>I'm waiting.</li>
+        <li>Did you mean to send me a blank message?</li>
+        <li>Your message was blank or incomplete, Send anyway (Y/N)?</li>
+      </random>
+    </template>
+  </category>
+</aiml>

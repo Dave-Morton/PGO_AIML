@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright ©2016 Dave                                        -->
+<!--  Permission is hereby granted, free of charge, to any person       -->
+<!--  obtaining a copy of this software and associated documentation    -->
+<!--  files (the "Software"), to deal in the Software without           -->
+<!--  restriction, including without limitation the rights to use,      -->
+<!--  copy, modify, merge, publish, distribute, sublicense, and/or sell -->
+<!--  copies of the Software, and to permit persons to whom the         -->
+<!--  Software is furnished to do so, subject to the following          -->
+<!--  conditions:                                                       -->
+<!--  The above copyright notice and this permission notice shall be    -->
+<!--  included in all copies or substantial portions of the Software.   -->
+<!--  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,   -->
+<!--  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES   -->
+<!--  OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND          -->
+<!--  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT       -->
+<!--  HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,      -->
+<!--  WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING      -->
+<!--  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR     -->
+<!--  OTHER DEALINGS IN THE SOFTWARE.                                   -->
+<!--  Complies with the AIML 1.0 Standard                               -->
+<!--  as adopted by the ALICE A.I. Foundation.                          -->
+<!--  Last modified 07-24-2016                                          -->
+<!--  file: continuation.aiml                                           -->
+<aiml version="1.0">
+  <category>
+    <pattern>CONTINUATION</pattern>
+    <template>
+      <think>
+        <set name="continue">
+          <get name="continued"/>
+        </set>
+        <set name="continued">
+          <get name="continuedd"/>
+        </set>
+        <set name="continuedd">
+          <get name="continueddd"/>
+        </set>
+        <set name="continueddd">
+          <get name="continuedddd"/>
+        </set>
+        <set name="continuedddd">
+          <get name="continueddddd"/>
+        </set>
+        <set name="continueddddd">
+          <get name="continuedddddd"/>
+        </set>
+        <set name="continuedddddd">
+          <get name="continueddddddd"/>
+        </set>
+        <set name="continueddddddd">
+          <get name="continuedddddddd"/>
+        </set>
+        <set name="continuedddddddd">
+          <get name="continueddddddddd"/>
+        </set>
+        <set name="continueddddddddd">
+          <get name="continuedddddddddd"/>
+        </set>
+        <set name="continuedddddddddd">
+          <get name="continueddddddddddd"/>
+        </set>
+        <set name="continueddddddddddd">
+          <get name="continuedddddddddddd"/>
+        </set>
+        <set name="continuedddddddddddd">
+          <get name="continueddddddddddddd"/>
+        </set>
+        <set name="continueddddddddddddd">
+          <get name="continuedddddddddddddd"/>
+        </set>
+        <set name="continuedddddddddddddd">
+          <get name="continueddddddddddddddd"/>
+        </set>
+        <set name="continueddddddddddddddd">
+          <get name="continuedddddddddddddddd"/>
+        </set>
+        <set name="continuedddddddddddddddd">
+          <srai>RANDOM TOPIC</srai>
+        </set>
+      </think>
+      <get name="continue"/>
+    </template>
+  </category>
+  <category>
+    <pattern>CONTINUATION *</pattern>
+    <template>Blank template</template>
+  </category>
+</aiml>
